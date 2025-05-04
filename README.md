@@ -1,8 +1,8 @@
-# <img align="left" alt="InfiRouter Logo Placeholder" width="1920px" src="https://assets.hackquest.io/hackathons/projects/logo/jKqHLHwFANe7ruj04bQ91.png" /> InfiRouter
+# <img align="left" alt="InfiRouter Logo Placeholder" width="1280px" src="https://assets.hackquest.io/hackathons/projects/logo/jKqHLHwFANe7ruj04bQ91.png" /> InfiRouter
 
 infi is the premier DEX aggregator on Pharos Network which is fully on-chain and modular in nature.
 
-*   **https://github.com/InfiFinance/Infi-Frontend**
+*   **UI link :https://github.com/InfiFinance/Infi-Frontend**
 *   **Twitter(X): https://x.com/InfiExchange**
 
 *   **App link: https://infiexchange.xyz/swap**
@@ -248,8 +248,8 @@ To get a list of currently integrated and deployed adapters for a specific netwo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
-    cd [Your Repository Directory]
+    git clone https://github.com/InfiFinance/infi-ag
+    cd infi-ag
     ```
 2.  **Install Dependencies:**
     ```bash
