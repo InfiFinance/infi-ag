@@ -1,9 +1,19 @@
-# [<img align="left" alt="InfiRouter Logo Placeholder" width="50px" src="[URL_to_your_logo.png - Add Logo URL Here]" />]([Link to Project/UI - Add Link Here]) InfiRouter
+# <img align="left" alt="InfiRouter Logo Placeholder" width="1920px" src="https://cdn.discordapp.com/attachments/1169886272286892104/1368538551465283604/infi_logo.png?ex=68189658&is=681744d8&hm=76d7c48bd1fa529db64865c24da0e9a82a42b4f56b4c5126a9eeaa2d00271676&" /> InfiRouter
 
 infi is the premier DEX aggregator on Pharos Network which is fully on-chain and modular in nature.
 
-*   **[Link to UI - To be added]**
-*   **[Link to Documentation - To be added]**
+*   **https://github.com/InfiFinance/Infi-Frontend**
+*   **Twitter(X): https://x.com/InfiExchange**
+
+*   **App link: https://infiexchange.xyz/swap**
+
+*   **Demo: https://youtu.be/eD7oxHQ4O5w**
+
+*   **Pitch Deck: https://www.canva.com/design/DAGl29yqvtA/VSeI71RsS0OsjLDokhq8Ew/view**
+
+*   **Pitch Video: https://youtu.be/PpJ_QpFg7kA**
+
+*   **Docs: https://infi-1.gitbook.io/infi-litepaper**
 
 ## About
 
@@ -48,8 +58,8 @@ See an example of off-chain usage for pathfinding and swap execution in `[./src/
 
 | Chain      | Router Address                                   |
 | :--------- | :----------------------------------------------- |
-| Pharos Devnet    | `[Add devnet Router Address Here]`            
-| Pharos Testnet   | `[Add testnet Router Address Here]`          
+| Pharos Devnet    | `0xE0F6Dd4c6DA9d832B34747A54f0b346B4936Cddf`            
+| Pharos Testnet   | `[testnet router Address to be added here]`          
 
 ---
 
@@ -300,14 +310,3 @@ To get a list of currently integrated and deployed adapters for a specific netwo
 **Disclaimer: This project has NOT been professionally audited.**
 
 While developed with security best practices in mind, using these smart contracts involves inherent risks. **Use at your own risk.**
-
-For bug reports or security concerns, please **open an issue** in this repository or contact: **[Contact Method - e.g., security@yourdomain.com, Telegram Link - To be added]**. Responsible disclosure is appreciated.
-
-## License
-
-[Specify Project License Here - e.g., MIT, GPL-3.0-or-later]. Check for a `LICENSE` file in the repository root.
-
----
-
-*Copyright © [Year] [Your Name/Organization]*
-```
