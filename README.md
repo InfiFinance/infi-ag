@@ -1,8 +1,12 @@
-# <img align="left" alt="InfiRouter Logo Placeholder" width="1280px" src="https://assets.hackquest.io/hackathons/projects/logo/jKqHLHwFANe7ruj04bQ91.png" /> InfiRouter
+<div>
+    <img align="left" alt="InfiRouter Logo Placeholder" width="720px" src="https://assets.hackquest.io/hackathons/projects/logo/jKqHLHwFANe7ruj04bQ91.png" /> 
+</div>
+
+# **Infi**
 
 infi is the premier DEX aggregator on Pharos Network which is fully on-chain and modular in nature.
 
-*   **UI link :https://github.com/InfiFinance/Infi-Frontend**
+*   **UI link : https://github.com/InfiFinance/Infi-Frontend**
 *   **Twitter(X): https://x.com/InfiExchange**
 
 *   **App link: https://infiexchange.xyz/swap**
