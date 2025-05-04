@@ -1,4 +1,4 @@
-# <img align="left" alt="InfiRouter Logo Placeholder" width="1920px" src="https://cdn.discordapp.com/attachments/1169886272286892104/1368538551465283604/infi_logo.png?ex=68189658&is=681744d8&hm=76d7c48bd1fa529db64865c24da0e9a82a42b4f56b4c5126a9eeaa2d00271676&" /> InfiRouter
+# <img align="left" alt="InfiRouter Logo Placeholder" width="1920px" src="https://assets.hackquest.io/hackathons/projects/logo/jKqHLHwFANe7ruj04bQ91.png" /> InfiRouter
 
 infi is the premier DEX aggregator on Pharos Network which is fully on-chain and modular in nature.
 
